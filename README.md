@@ -23,7 +23,7 @@ The required permissions are:
 
 # Definition of Credentials
 
-You must add the information below in the defines file.
+You must add the information below in the **defines.py** file.
 - ACCESS-TOKEN;
 - FB-APP-CLIENT-ID;
 - FB-APP-CLIENT-SECRET.
