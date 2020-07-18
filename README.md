@@ -21,9 +21,8 @@ The required permissions are:
 - pages_read_user_content
 - pages_show_list
 
-'''python
-print('teste')
-'''
+
+
 # Reference
 
 This code was based on the excellent code proposed by github.com/jstolpe and the great video at https://youtu.be/dEDKOcPuXlU
