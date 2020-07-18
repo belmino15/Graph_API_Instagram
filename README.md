@@ -44,7 +44,7 @@ The README will still be implemented to add further details to the explanation.
 
 For now please note that to check if your Token is ok, you must use **debug_access_token.py**. Afterwards, you must redo your Token with an expiration date higher with **get_long_lived_access_token.py**.
 
-Use get_user_pages.py and get_instagram_account.py to get the ID to complete the define.py informations that you don't have yet.
+Use **get_user_pages.py** and **get_instagram_account.py** to get the ID to complete the **define.py** informations that you don't have yet.
 
 Than you can use the **import_id_media.py**, **import_user_insights.py**, **import_user_insights_lifetime.py** to import the data from the Instagram account.
 
