@@ -21,9 +21,23 @@ The required permissions are:
 - pages_read_user_content
 - pages_show_list
 
+# Definition of Credentials
+
+You must add the information below in the defines file.
+- ACCESS-TOKEN;
+- FB-APP-CLIENT-ID;
+- FB-APP-CLIENT-SECRET.
+
+In the following fields:
+
 ```python
-print('teste')
+creds['access_token'] = 'ACCESS-TOKEN'
+creds['client_id'] = 'FB-APP-CLIENT-ID'
+creds['client_secret'] = 'FB-APP-CLIENT-SECRET'
 ```
+
+The information from the last two fields is obtained in your app in Settings > Basic.
+
 # Reference
 
 This code was based on the excellent code proposed by github.com/jstolpe and the great video at https://youtu.be/dEDKOcPuXlU
