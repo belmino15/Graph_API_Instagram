@@ -44,6 +44,10 @@ The README will still be implemented to add further details to the explanation.
 
 For now please note that to check if your Token is ok, you must use **debug_access_token.py**. Afterwards, you must redo your Token with an expiration date higher with **get_long_lived_access_token.py**.
 
+Use get_user_pages.py and get_instagram_account.py to get the ID to complete the define.py informations that you don't have yet.
+
+
+
 # Reference
 
 This code was based on the excellent code proposed by github.com/jstolpe and the great video at https://youtu.be/dEDKOcPuXlU
