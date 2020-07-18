@@ -46,7 +46,7 @@ For now please note that to check if your Token is ok, you must use **debug_acce
 
 Use get_user_pages.py and get_instagram_account.py to get the ID to complete the define.py informations that you don't have yet.
 
-
+Than you can use the **import_id_media.py**, **import_user_insights.py**, **import_user_insights_lifetime.py** to import the data from the Instagram account.
 
 # Reference
 
