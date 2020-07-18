@@ -1,2 +1,6 @@
 Code/defines.py
 .vscode/settings.json
+result.json
+.vscode/launch.json
+Code/__pycache__/defines.cpython-37.pyc
+Code/__pycache__/insights.cpython-37.pyc
